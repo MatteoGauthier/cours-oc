@@ -1,5 +1,4 @@
 J'ai suivis plusieurs cours sur OC. Voici une courte liste :
 - Html/CSS
 - PHP/MySQL
-- JavaScript
 - Python
